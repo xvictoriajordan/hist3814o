@@ -6,3 +6,4 @@
 * Typed in my DHbox password wrong a bunch of times while trying to download Pandoc so I restarted the proccess twice thinking I was doing something wrong.
 * When trying to complete step 12 of exercise 2, after typing in pandoc -o todayscommands.docx dhbox-work-today.md and then 1s to make sure that the file had converted it kept saying "command not found" and when I clicked on the file manager the file was not there. I quickly watched the video to see that you have to hit the home button in the file manager to refresh it.
 * I also just realized that the commmand is not 1s (number 1+s) but ls (letter l+s) which is why it was saying command not found. The front in the textbook makes it look like a 1 and not a l (`1` vs `l`)
+* Moving onto exercise 4 I wasn't sure how to open the file I had already created as I thought `nano filename.md` was only to create and not open. Turns out it does both!
