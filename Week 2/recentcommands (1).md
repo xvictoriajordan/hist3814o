@@ -7,7 +7,7 @@
     7  git checkout -b experiment
     8  git push origin experiment
     9  nano experiment.md
-   10  ls
+  ` 10  ls
    11  git commit -m "New file experiment.md"
    12  git add -A
    13  git status
