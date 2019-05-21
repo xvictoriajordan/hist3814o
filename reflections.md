@@ -1,4 +1,4 @@
-# Reading and Excercise Reflections
+# Reading Reflections, Excercise Reflections and Annotations
 
 ### Week 2: Open Access Research 
 
@@ -15,3 +15,33 @@ As a student, I think the idea also has positives and negatives. I like Owens id
 **Exercises**
 
 This week was way more challenging compared to last. While I had little trouble with exercise 1, exercise 2 was much more difficult. I'm not even really sure what I did. I had a couple of mishaps which I recorded in my fail log. I would not say that I was frustrated as restarting things from the top generally solved my problems, I just found it difficult as I had no idea what I was really doing (in terms of what these commands were and why). I did get the point of the last part (converting the documents) but other than that not too sure. I guess like last week I will maybe understand better once I practice more.
+
+I did manage to complete all of the exercies this week. I'm still a little confused about things, but I think that being able to refer back to the intrusctions in this week will be helpful. I did sort of regret taking a break bewteen exercises, I next next week I will try and complete them all in one sitting as I feel it will be easier for me to understnad what I'm doing. 
+
+As for my fail log as a whole, most of what is in there is me just explaining how I mixed things up or my thought process for errors that I made. Most of them were pretty silly like putting in wrong passwords and forgetting to .md at the end of things.
+
+Interestingly enough, while working on the dillinger.io portion of class I found that [Carleton](https://library.carleton.ca/services/open-access) has a webpage for open access work. A lot of my concerns with this week's readings had to do with if professor's would accept open access data. Finding this web page I think highlights the fact that open data is becoming more of a "norm".
+
+Annotations
+======
+
+**First Annotation**
+
+[My first annotation](https://hyp.is/upH_XnfoEemJP6f0pIv6aQ/wcm1.web.rice.edu/open-notebook-history.html) as mentioned above, had to do with the use of open data for student research. The McDaniel article highlights the fact that open data notebooks could be very useful as they would be allow for content to be shared quickly versus waiting for an article to be peer reviewed. While I think the idea is great and could really benefit those doing similar research, I question how useful it is for students. I should have clarified that I meant undergrad students who for the most part are not doing independent reserahc projects or writing thesis' therefore many professors require scholarly, peer reviwed work when writing essays. This would not exactly be useful for these students, and honestly if it was not taking this course, I would have probably never really looked into this type of data.
+
+
+**Second Annotation**
+
+[My second annotation](https://hyp.is/DRZTMnfvEem6NR8Ewjy2HQ/kfitz.info/generous-thinking-introduction/) was in regards to the Kathleen Fitzpatrick article, sepcifically around her comments about how people who persue art history degrees are often put down or told that their degree is less important compared to pre-proffesional degrees. While I am not in a humanities degree, I find similar sentiments about being in a social science degree (Poli Sci). People often ask what can you do with that degree or assume that you can only become a politican but many do not know that you can do much more. As I mentioned in my annotation, Carleton has a great master's programs that lets those interested in political science explore the other avenues associated with politics. This includes, communications, writing, campaigning and management. So while some think that certain degrees are limiting, I think otherwise.
+
+
+**Third Annotation**
+
+[My third annotation](https://hyp.is/u_u-fngCEemWM09qFrlDRA/workbook.craftingdigitalhistory.ca/module-1/Exercises/) was just a little helpful tip that user jennatarasco_ found helpful. The notebook mentioned that copy and pasting often carries the formatting along with it. I left a note saying that if use ctrl+shift+V it will paste your work without the formatting from where you copied it. I actually learnt this when looking for tech tips for the weekly newsletter my office puts out!
+
+
+## Comments/Concerns
+
+Just a couple of things that have bugged me this week but are really out of my control. for one, I hate that when using GitHub my spell check does not automatically work (like mispelpt words are not highlighted) I will admit that I am a fast typer, and I am not super gifted in the spelling department so it kind of annoying to have to copy mpaste my work into a word doc to double check my spelling before commiting (generally when I type longer paragraphs). 
+
+The other thing is that I did most of my work on Thursday and at that point, no one had made any annotations that I could reply to. Therefore I had to check back everyday to see if someone had written something so that I could reply as it is part of the class. In other online classes the professors normally ask for students to make one comment by a certain day so that it is fair for everyone to be able to reply and not have to wait until more people start their work.
