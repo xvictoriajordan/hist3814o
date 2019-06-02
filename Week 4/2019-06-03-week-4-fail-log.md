@@ -4,3 +4,4 @@
 * My issue seems to be the fact that it is stuck in the root mode. It is not acting the same as usual. I tried making another account and it seems to be working better and doing what is in the videos.
 * Just logged back into the original account and now it seems to be working. Really weird, but things are working!
 * Before doing the `sed -r -i.bak 's/(.+\bto\b.+)/~\1/g' texas.txt` in Command Line, I tried practicing on RegExr but could only seem to get the command to highlight the word to but not to replace anything. I ended up giving up in RegExr and just did it in Command Line and it worked. Would have maybe been helpful if the video underneath the instructions showed how to do it.
+* When I got to step 6 I realized that my whole file had one too many commas in each line. I went back to step three and realized that I forgot to put in a space between `( [0-9]{4})`. Re-doing this step solved my problem!
