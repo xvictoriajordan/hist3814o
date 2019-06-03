@@ -5,3 +5,4 @@
 * Just logged back into the original account and now it seems to be working. Really weird, but things are working!
 * Before doing the `sed -r -i.bak 's/(.+\bto\b.+)/~\1/g' texas.txt` in Command Line, I tried practicing on RegExr but could only seem to get the command to highlight the word to but not to replace anything. I ended up giving up in RegExr and just did it in Command Line and it worked. Would have maybe been helpful if the video underneath the instructions showed how to do it.
 * When I got to step 6 I realized that my whole file had one too many commas in each line. I went back to step three and realized that I forgot to put in a space between `( [0-9]{4})`. Re-doing this step solved my problem!
+* When uploading my cleaned up correspondence onto OpenRefine it did not go into the three columns right away. I saw that someone else had this issue and followed the instructions saying that when you go to upload it you have to select columns sperated by commas.
