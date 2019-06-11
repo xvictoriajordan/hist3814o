@@ -11,3 +11,4 @@
 * `sudo apt-get install libcurl4-gnutls-dev` didn't work right away, but I remembered having a similar issue in the past and needing to do an update (`sudo apt-get update`) this allowed Rcurl to instal in Command Line
 * I could not get my Rstudio to show the side windows like the in the video (like the environment and history tab). I tried logging in and out, closing and opening tabs but nothing seems to be working.
 * I am skipping exercise 3 until I can get an answer from Slack or until it starts working!
+* For exercise 5, I had to install the newest version of AntConc as it seems my Mac is too new for the version that is recommened. X11 is not availble for my computer therefore the old version would not open.
