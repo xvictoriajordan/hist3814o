@@ -9,3 +9,4 @@
 * Also on exercise 3 I forgot that you have to run each line and that simply clicking run will not do each line, this is why nothing was intalling.
 * More for exercise 3, Rcurl did not want to install on RStudio, so I went to go follow the instructions to `sudo apt-get install libcurl4-gnutls-dev` in Command Line but my Command Line wasn't working. It just gave me a blank black screen with no prompt. I will try and refresh and see what happens! (After refresh I could log in and there was no more blank page!)
 * `sudo apt-get install libcurl4-gnutls-dev` didn't work right away, but I remembered having a similar issue in the past and needing to do an update (`sudo apt-get update`) this allowed Rcurl to instal in Command Line
+* I could not get my Rstudio to show the side windows like the in the video (like the environment and history tab). I tried logging in and out, closing and opening tabs but nothing seems to be working.
